@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "email": "farikmakarov@ya.ru",
+    "username": "efatcat"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "efatcat.github.io/hleb"
+  }
+}
